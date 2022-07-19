@@ -1,4 +1,4 @@
-package br.com.sam.food.dto;
+package br.com.sam.food.pagamentos.dto;
 
 import java.math.BigDecimal;
 

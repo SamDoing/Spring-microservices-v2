@@ -1,4 +1,4 @@
-package br.com.sam.food.controller;
+package br.com.sam.food.pagamentos.controller;
 
 import java.net.URI;
 import java.net.URISyntaxException;
@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.sam.food.dto.PagamentoDto;
+import br.com.sam.food.pagamentos.dto.PagamentoDto;
 import br.com.sam.food.pagamentos.service.PagamentoService;
 
 @RestController

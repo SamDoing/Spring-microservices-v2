@@ -6,7 +6,7 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
-import br.com.sam.food.dto.PagamentoDto;
+import br.com.sam.food.pagamentos.dto.PagamentoDto;
 import br.com.sam.food.pagamentos.model.Pagamento;
 import br.com.sam.food.pagamentos.model.Status;
 import br.com.sam.food.pagamentos.repository.PagamentoRepository;
